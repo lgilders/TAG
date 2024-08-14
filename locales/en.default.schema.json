@@ -2829,6 +2829,9 @@
         "heading": {
           "label": "Heading"
         },
+        "paragraph__1": {
+          "default": "You may also like"
+        },
         "products_to_show": {
           "label": "Maximum products to show"
         },
